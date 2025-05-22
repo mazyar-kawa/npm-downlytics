@@ -4,7 +4,7 @@
 
 [Live Website](https://npm-downlytics.mazyar.dev) · Try It Now
 
-!Open Graph
+![Open Graph](https://npm-downlytics.mazyar.dev/opengraph-image.png)
 
 ---
 
